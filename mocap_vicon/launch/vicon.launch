@@ -3,7 +3,7 @@
     type="mocap_vicon_node"
     name="vicon"
     output="screen">
-    <param name="server_address" value=""/>
+    <param name="server_address" value="mocap"/>
     <param name="frame_rate" value="100"/>
     <param name="max_accel" value="10.0"/>
     <param name="publish_tf" value="false"/>
